@@ -5,8 +5,8 @@ import (
 	"github.com/desertbit/grumble"
 	"github.com/hashicorp/yamux"
 	"github.com/sirupsen/logrus"
-	"ligolo-ng/cmd/proxy/app"
-	"ligolo-ng/pkg/proxy"
+	"github.com/audibleblink/ligolo-ng/cmd/proxy/app"
+	"github.com/audibleblink/ligolo-ng/pkg/proxy"
 	"os"
 	"strings"
 )
