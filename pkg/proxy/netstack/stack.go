@@ -11,7 +11,7 @@ import (
 	"gvisor.dev/gvisor/pkg/tcpip/transport/icmp"
 	"gvisor.dev/gvisor/pkg/tcpip/transport/tcp"
 	"gvisor.dev/gvisor/pkg/tcpip/transport/udp"
-	"ligolo-ng/pkg/proxy/netstack/tun"
+	"github.com/audibleblink/ligolo-ng/proxy/netstack/tun"
 	"sync"
 )
 

@@ -1,4 +1,4 @@
-module ligolo-ng
+module github.com/audibleblink/ligolo-ng
 
 go 1.17
 

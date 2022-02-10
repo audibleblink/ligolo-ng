@@ -11,8 +11,8 @@ import (
 	"gvisor.dev/gvisor/pkg/tcpip/transport/udp"
 	"gvisor.dev/gvisor/pkg/waiter"
 	"io"
-	"ligolo-ng/pkg/protocol"
-	"ligolo-ng/pkg/relay"
+	"github.com/audibleblink/ligolo-ng/protocol"
+	"github.com/audibleblink/ligolo-ng/relay"
 )
 
 // handleICMP process incoming ICMP packets and, depending on the target host status, respond a ICMP ECHO Reply
